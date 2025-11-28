@@ -1,5 +1,5 @@
-Respon1: "ðŸŽµ Klik ikon di kanan atas untuk stop musik"
-Respon2: "âš ï¸ Waspada penipuan! Pembelian resmi hanya di <a href="https://satyaaditech.github.io/studioailablandingpages/" target="_blank" rel="noopener noreferrer" style="color:#1d4ed8;text-decoration:none;">https://satyaaditech.github.io/studioailablandingpages/</a>"
+Respon1: "👆 Klik ikon di kanan atas untuk stop musik"
+Respon2: "✌️¸ Waspada penipuan! Pembelian resmi hanya di <a href="https://satyaaditech.github.io/studioailablandingpages/" target="_blank" rel="noopener noreferrer" style="color:#1d4ed8;text-decoration:none;">https://satyaaditech.github.io/studioailablandingpages/</a>"
 URL: https://gemini.google.com/share/8e2bb3540800
 Versi: 3.1
 Update: "Fitur Baru! Abadikan momen kehamilan menggunakan fitur Maternity di menu Fotografer"
